@@ -4,7 +4,7 @@
 
 
 
-<h3>Hey! My name is Pablo!</h3><br/>
+<h3>Hey! My name is Ruan Pablo!</h3><br/>
 <p>
   🧔 I'm 18 and a back-end lover, also i can only survive with coffee... i think<br/>
   💻 I'm Currently developing for <a href="https://discord.gg/FkGqjGkSFQ">Looping</a> ( My Store)
