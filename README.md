@@ -1,14 +1,25 @@
+<!-- 
+  COLOCAR OS ARQUIVOS DE AÚDIO.OGG DENTRO DO SEU VRP_SOUNDS SE QUISER QUE TENHA AÚDIO
+  EXECUTAR O ARQUIVO SQL NO SEU BANCO DE DADOS
+
+  NÃO MEXER NO NOME DA PASTA (DEIXAR mr-battleroyale)
+
+  FRONT END: ruanp_#4455
+  BACK END: madrugarlk#1446
+-->
+
+
 <div>
-  <h1 align="center">Hi! I'm <a href="https://www.linkedin.com/in/marceloveras"><i>Aspx</i></a> :)</h1>
+  <h1 align="center">Hi! I'm <a href="https://www.linkedin.com/in/ru4np"><i>Aspx</i></a> :)</h1>
   <p align="center.
     
 </div>
 
 <div>
   <a href="https://github.com/ru4np">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marceloverass&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marceloverass&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceloverass&theme=dracula&hide_border=false&&layout=compact"     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marceloverass&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true""
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ru4np&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ru4np&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru4np&theme=dracula&hide_border=false&&layout=compact"     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ru4np&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true""
 />
   </a>
 </div>
@@ -25,9 +36,7 @@
 </div><br>
 
 <div align="center">
-
-  <a href="https://www.instagram.com/maocelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-veras-524308187" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:marceloantonino.verass@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:ruanfaluke@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
