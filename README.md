@@ -19,5 +19,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Meu nome é Ruan e tenho 18 anos. Atualmente trabalho com desenvolvimento front-end e back-end, além disso, eu amo trabalhar com interfaces e scripts para FiveM desde 2020, tenho experiencia em trabalhar para diversos servidores grandes e já contribui com soluções para eles. Além disso, também crio bots de Discord, o que me permite automatizar diversas tarefas no aplicativo de comunicação. Também trabalho com design de interfaces (UI/UX) e gosto de desenvolver soluções que sejam bonitas e fáceis de usar e que agradem o usuário.
+Meu nome é Ruan e tenho 18 anos. Possuo habilidades em desenvolvimento front-end e back-end, incluindo Javascript, CSS, HTML, ReactJS e MySQL. Sou apaixonado por design de interfaces (UI/UX) e procuro criar soluções atrativas e fáceis de usar para o usuário. Tenho experiência em desenvolvimento de aplicações para web e já contribuí com soluções eficientes para diversos projetos. Além disso, sou facilmente adaptável a estruturas organizacionais da empresa, tenho facilidade em trabalhar em equipe e aprendizagem rápida.
 
