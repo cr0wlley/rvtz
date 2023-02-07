@@ -8,7 +8,7 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=ru4np&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia 
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -23,5 +23,5 @@
   ![MARIADB](https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white)
   ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Meu nome é Ruan e tenho 18 anos. Possuo habilidades em desenvolvimento front-end e back-end, incluindo Javascript, CSS, HTML, ReactJS e MySQL. Sou apaixonado por design de interfaces (UI/UX) e procuro criar soluções atrativas e fáceis de usar para o usuário. Tenho experiência em desenvolvimento de aplicações para web e já contribuí com soluções eficientes para diversos projetos. Além disso, sou facilmente adaptável a estruturas organizacionais da empresa, tenho facilidade em trabalhar em equipe e aprendizagem rápida.
+Meu nome é Ruan e tenho 18 anos, estou fazendo faculdade de analise e desenvolvimentos de sistemas. Possuo habilidades em desenvolvimento front-end e back-end, incluindo Javascript, CSS, HTML, ReactJS e MySQL. Sou apaixonado por design de interfaces (UI/UX) e procuro criar soluções atrativas e fáceis de usar para o usuário. Tenho experiência em desenvolvimento de aplicações para web e já contribuí com soluções eficientes para diversos projetos. Além disso, sou facilmente adaptável a estruturas organizacionais da empresa, tenho facilidade em trabalhar em equipe e aprendizagem rápida.
 
