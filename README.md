@@ -34,9 +34,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ru4np/ru4np/output/snake.svg" alt="Snake animation" />
 
 ###
 
